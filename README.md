@@ -1,4 +1,4 @@
-👋 Hi, I’m Chayanika Barman
+👋 Hi, I’m Chayanika Barman. 
 👀 I’m interested in building responsive and interactive web applications, with a focus on front-end development and creative UI/UX design.  
 🌱 I’m currently learning React, Node.js, Express.js, and MongoDB to further enhance my full-stack web development skills.  
 💞️ I’m looking to collaborate on innovative web projects, open-source initiatives, and community-driven coding sessions.  
